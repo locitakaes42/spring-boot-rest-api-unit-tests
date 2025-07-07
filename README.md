@@ -5,4 +5,4 @@
 - Unit tests
 - Integration tests
 - Mockito
-- JACOCO Coverage reports
+- JACOCO Coverage reports.
